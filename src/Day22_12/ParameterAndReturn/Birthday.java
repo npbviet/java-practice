@@ -5,14 +5,14 @@ import java.util.*;
 public class Birthday {
     public static final int DAY_OF_YEAR = 365;
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner console = new Scanner(System.in);
 
         System.out.println("Please enter today's date:");
         System.out.print("What is the month (1-12)? ");
-        int currentMonth = scanner.nextInt();
+        int currentMonth = console.nextInt();
 
         System.out.print("What is the day (1-31)? ");
-        int currentDay = scanner.nextInt();
+        int currentDay = console.nextInt();
 
         int nthToday = calDayInYear(currentDay, currentMonth);
 
@@ -21,10 +21,10 @@ public class Birthday {
         //Ngày sinh nhật
         System.out.println("Please enter your birthday:");
         System.out.print("What is the month (1-12)? ");
-        int birthMonth = scanner.nextInt();
+        int birthMonth = console.nextInt();
 
         System.out.print("What is the day (1-30)? ");
-        int birthDay = scanner.nextInt();
+        int birthDay = console.nextInt();
 
         int nthBirthday = calDayInYear(birthDay, birthMonth);
 
