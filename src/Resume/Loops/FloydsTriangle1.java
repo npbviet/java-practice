@@ -2,7 +2,7 @@ package Resume.Loops;
 
 import java.util.Scanner;
 
-public class FloydsTriangle {
+public class FloydsTriangle1 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         System.out.print("Max line? ");
