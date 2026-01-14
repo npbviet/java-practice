@@ -1,4 +1,4 @@
-package Day12_1.Strings;
+package Resume.Strings;
 
 import java.util.*;
 

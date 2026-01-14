@@ -1,4 +1,4 @@
-package Day12_1.IfElse;
+package Resume.IfElse;
 
 import java.util.Scanner;
 
