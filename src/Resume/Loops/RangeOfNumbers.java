@@ -1,4 +1,4 @@
-package Day14_1.Loops;
+package Resume.Loops;
 
 import java.util.*;
 

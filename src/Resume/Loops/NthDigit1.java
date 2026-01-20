@@ -1,7 +1,6 @@
-package Day14_1.Loops;
+package Resume.Loops;
 
 import java.util.*;
-import java.io.*;
 
 public class NthDigit1 {
     public static void main (String []args){

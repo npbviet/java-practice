@@ -1,4 +1,4 @@
-package Day14_1.Crittiers;
+package Resume.Critters;
 
 public class Skunk extends Critter {
     private int moves;

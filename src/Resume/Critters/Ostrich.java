@@ -1,4 +1,4 @@
-package Day14_1.Crittiers;
+package Resume.Critters;
 
 import java.awt.*;
 import java.util.Random;
