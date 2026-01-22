@@ -1,4 +1,4 @@
-package Day20_1.StackQueue;
+package Resume.Collection.StackQueue;
 
 import java.util.*;
 

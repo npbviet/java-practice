@@ -1,4 +1,4 @@
-package Day20_1.Critters;
+package Resume.Critters;
 
 public class Abby extends Critter {
     private int slowdown;

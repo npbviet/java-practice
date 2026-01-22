@@ -1,4 +1,4 @@
-package Day20_1.Map;
+package Resume.Collection.Map;
 
 import java.util.*;
 

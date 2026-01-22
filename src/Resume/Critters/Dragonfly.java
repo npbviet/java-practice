@@ -1,4 +1,4 @@
-package Day20_1.Critters;
+package Resume.Critters;
 
 public class Dragonfly extends Critter {
     private int moves = 0;
